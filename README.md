@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Apoorva
-- 👀 I’m interested in Javascript and HTML
-- 🌱 I’m currently learning about Web Developing
+- 👀 I’m interested in Front End Developing
+- 🌱 I’m currently learning Javascript and HTML
 - 💞️ I’m looking to collaborate on various projects
-- 📫 How to reach me ...
 
 <!---
 apoorvapandey623/apoorvapandey623 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
